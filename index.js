@@ -1,3 +1,9 @@
+/* In this file I am going to create a SOlana Wallet and Deposit some Solana in it , Using the Dev network Stay tunned */
+
+/* Import the required imports from solana/web3.js package 
+
+To run this Program type
+*/
 const {
     Connection,
     PublicKey,
